@@ -1,6 +1,6 @@
 # Home
 
-The `dir()` function in Python is a built-in function used to get a list of attributes of an object. It's a powerful tool for introspection, allowing you to explore the properties and methods available for various objects.
+The `dir()` function in Python is a ==built-in function== used to get a list of attributes of an object. It's a powerful tool for introspection, allowing you to explore the properties and methods available for various objects.
 
 ## Syntax:
 
