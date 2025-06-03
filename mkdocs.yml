@@ -79,6 +79,9 @@ nav:
       - Overview: built-in/overview.md
       - dir() function: built-in/dir-function.md
 
+  - Basic:
+      - Module: basic/module.md
+
   - Cheatsheet:
       - JS vs PY: cheatsheet/js-vs-py.md
       - Similarities: cheatsheet/similarities.md
