@@ -81,6 +81,8 @@ nav:
 
   - Basic:
       - Module: basic/module.md
+      - Package: basic/package.md
+      - Publish Package: basic/publishing-package.md
 
   - Cheatsheet:
       - JS vs PY: cheatsheet/js-vs-py.md
