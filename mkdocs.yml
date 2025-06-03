@@ -74,3 +74,12 @@ markdown_extensions:
 nav:
   - Blog:
       - blog/index.md
+
+  - Built-in:
+      - Overview: built-in/overview.md
+      - dir() function: built-in/dir-function.md
+
+  - Cheatsheet:
+      - JS vs PY: cheatsheet/js-vs-py.md
+      - Similarities: cheatsheet/similarities.md
+      - Differences: cheatsheet/differences.md
