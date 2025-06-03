@@ -1,0 +1,3 @@
+[submodule "bishowlovespython.github.io"]
+	path = bishowlovespython.github.io
+	url = git@github.com:bishowlovespython/bishowlovespython.github.io.git
