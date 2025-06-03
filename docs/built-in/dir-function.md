@@ -56,6 +56,8 @@ import math
 print(dir(math))
 ```
 
+[More Advanced Example](https://www.pythoncheatsheet.org/builtin/dir)
+
 ## Key Points:
 
 - The `dir()` function returns a list of strings, representing the names of attributes and methods.
@@ -71,3 +73,4 @@ print(dir(math))
 - [programiz.com: Python dir()](https://www.programiz.com/python-programming/methods/built-in/dir)
 - [github.com: python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
 - [geeksforgeeks.org: Python: Difference between dir() and help()](https://www.geeksforgeeks.org/python-difference-between-dir-and-help/)
+- [Python: Difference between dir() and help()](https://www.geeksforgeeks.org/python-difference-between-dir-and-help/)
