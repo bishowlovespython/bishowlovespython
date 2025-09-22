@@ -112,3 +112,4 @@ nav:
       - Selenium: web_scraping/selenium.md
       - Handling robots.txt: web_scraping/robots_txt_handling.md
       - Avoiding Bans: web_scraping/scraping_anti_ban.md
+      - Scrapy Automation: web_scraping/scrapy_automation.md

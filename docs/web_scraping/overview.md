@@ -2,6 +2,8 @@
 
 Web scraping allows you to programmatically extract data from websites, turning unstructured web pages into structured datasets. This section explores the tools, techniques, and best practices for web scraping and crawling using Python.
 
+- [docs.scrapy.org](https://docs.scrapy.org/en/latest/intro/overview.html)
+
 ---
 
 ## 🔍 What is Web Scraping?
