@@ -89,3 +89,17 @@ nav:
       - Similarities: cheatsheet/similarities.md
       - Differences: cheatsheet/differences.md
       - Concept: cheatsheet/concept.md
+
+  - Categories:
+      - Overview: categories/overview.md
+      - Data Science & ML: categories/data_science_ml.md
+      - Web Development: categories/web_development.md
+      - Automation & Scripting: categories/automation_scripting.md
+      - Scientific Computing: categories/scientific_computing.md
+      - Software Development: categories/software_development.md
+      - Game Development: categories/game_development.md
+      - Cybersecurity: categories/cybersecurity.md
+      - Finance & Fintech: categories/finance_fintech.md
+      - Bioinformatics & Healthcare: categories/bioinformatics_healthcare.md
+      - Robotics & IoT: categories/robotics_iot.md
+      - Education & Research: categories/education_research.md
