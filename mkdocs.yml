@@ -95,6 +95,7 @@ nav:
       - Data Science & ML: categories/data_science_ml.md
       - Web Development: categories/web_development.md
       - Automation & Scripting: categories/automation_scripting.md
+      - Web Scraping & Crawling: categories/web_scraping.md
       - Scientific Computing: categories/scientific_computing.md
       - Software Development: categories/software_development.md
       - Game Development: categories/game_development.md
@@ -103,3 +104,11 @@ nav:
       - Bioinformatics & Healthcare: categories/bioinformatics_healthcare.md
       - Robotics & IoT: categories/robotics_iot.md
       - Education & Research: categories/education_research.md
+
+  - Web Scraping & Crawling:
+      - Introduction: web_scraping/overview.md
+      - Scrapy Tutorial: web_scraping/scrapy_tutorial.md
+      - Beautiful Soup: web_scraping/beautiful_soup.md
+      - Selenium: web_scraping/selenium.md
+      - Handling robots.txt: web_scraping/robots_txt_handling.md
+      - Avoiding Bans: web_scraping/scraping_anti_ban.md
